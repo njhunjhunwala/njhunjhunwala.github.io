@@ -198,6 +198,12 @@ main {
   font-style: italic;
 }
 
+.paper-presentations {
+  font-size: 12px;
+  color: #bbb;
+  margin-top: 3px;
+}
+
 .jmp-badge {
   display: inline-block;
   font-size: 10px;
